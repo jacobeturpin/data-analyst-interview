@@ -1,8 +1,10 @@
 # Data Analyst Interview Project
 Provided directions to the data analysis project as part of the data analyst interview process
 
+:warning: **NOTE:** The following is a no longer used interview project for entry-level data analysts. You may use it independently for your own practice.
+
 ## Introduction
-The following is an outline for a simple data analysis project. It is being assigned as part of the interview for the Data Analyst position at ConnectWise, Inc.
+The following is an outline for a simple data analysis project. It is being assigned as part of the interview process for a Data Analyst position.
 
 The aim of this test is to assess your overall preparedness for typical tasks that will be necessary to perform as part of a data science team. The project was designed to have an anticipated completion time of 60-90 minutes for an entry-level data analyst.
 
@@ -13,12 +15,12 @@ The aim of this test is to assess your overall preparedness for typical tasks th
 * Submissions for this project will only be accepted and considered by applicants that have been specifically requested to do so.
 
 ## Submission
-Once complete, please send a link to your repository to [sresar@connectwise.com](mailto:sresar@connectwise.com).
+Once complete, please send a link to your repository to your recruiment contact.
 
 ## Directions
 
 1. Fork this repository to create a new working copy for your submission.
-1. To conduct your analysis, we have provided a dataset for download [here](https://s3.amazonaws.com/cc-analytics-datasets/Building_Permits.csv). The provided dataset comes from the City of Raleigh Open Data website and is based upon pending/granted building permits. Documentation on the dataset can be found [here](http://data-ral.opendata.arcgis.com/datasets/building-permits).
+1. To conduct your analysis, we have provided a dataset for download ~~here~~ _inactive_. The provided dataset comes from the City of Raleigh Open Data website and is based upon pending/granted building permits. Documentation on the dataset and an up-to-date copy of the data can be found [here](http://data-ral.opendata.arcgis.com/datasets/building-permits).
 1. Load the data from the provided source via a web request rather than downloading a local copy and loading from disk.
 1. Review the summary statistics for the included features. Please be sure to include the following in your exploratory data analysis:
    - Number of rows and columns in the dataset
